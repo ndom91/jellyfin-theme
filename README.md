@@ -5,7 +5,7 @@
 1. Add `src/index.css` raw URL to your Jellyfin CSS Settings.
 
 ```css
-@import url('https://github.com/ndom91/jellyfin-theme/raw/refs/heads/main/src/index.css');
+@import url('https://cdn.jsdelivr.net/gh/ndom91/jellyfin-theme@latest/src/index.css');
 ```
 
 
